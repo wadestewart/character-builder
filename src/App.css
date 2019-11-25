@@ -1,4 +1,11 @@
+.title {
+    margin: 50px 0;
+}
+
 .base-image {
-    height: 397px !important;
-    width: 296px !important;
+    margin: 10px 0 !important;
+}
+
+.button {
+    margin: 10px 0 !important;
 }
