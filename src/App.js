@@ -1,22 +1,25 @@
 import React from 'react';
-import './App.css';
+import 'materialize-css/dist/css/materialize.min.css';
+
+import baseLayer from './img/base.png';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className="container center-align">
+        <div>
+          <h4 className="center-align">Generate a Random Character</h4>
+        </div>
+        <div className="base-image">
+          <img src={baseLayer} alt="base layer" />
+        </div>
+        <div>
+          <a className="waves-effect waves-light btn"><i className="material-icons right">shuffle</i>Randomize</a>
+        </div>
+        <div>
+          <a className="waves-effect waves-light btn"><i className="material-icons right">get_app</i>PNG</a>
+        </div>
+      </div>
     </div>
   );
 }
