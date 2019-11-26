@@ -2,7 +2,7 @@ import React from 'react';
 import 'materialize-css/dist/css/materialize.min.css';
 import './App.css';
 
-import baseLayer from './img/base.png';
+// import baseLayer from './img/base.png';
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
           <h4 className="center-align">Generate a Random Character</h4>
         </div>
         <div className="base-image">
-          <img src={baseLayer} alt="base layer" />
+          {/* <img src={baseLayer} alt="base layer" /> */}
         </div>
         <div className="button">
           <a className="waves-effect waves-light btn"><i className="material-icons right">shuffle</i>Randomize</a>
