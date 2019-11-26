@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/character-builder/static/css/main.95d9d1f3.chunk.css",
+    "main.css": "/character-builder/static/css/main.bcf35a09.chunk.css",
     "main.js": "/character-builder/static/js/main.c259ae6f.chunk.js",
     "main.js.map": "/character-builder/static/js/main.c259ae6f.chunk.js.map",
     "runtime-main.js": "/character-builder/static/js/runtime-main.f023d23d.js",
@@ -9,16 +9,16 @@
     "static/js/2.ba31856b.chunk.js": "/character-builder/static/js/2.ba31856b.chunk.js",
     "static/js/2.ba31856b.chunk.js.map": "/character-builder/static/js/2.ba31856b.chunk.js.map",
     "index.html": "/character-builder/index.html",
-    "precache-manifest.573740ccc8eb3ada4ec22bd404f9e8f1.js": "/character-builder/precache-manifest.573740ccc8eb3ada4ec22bd404f9e8f1.js",
+    "precache-manifest.46675ee6d038b95f79d09507656456a7.js": "/character-builder/precache-manifest.46675ee6d038b95f79d09507656456a7.js",
     "service-worker.js": "/character-builder/service-worker.js",
     "static/css/2.6a906a3b.chunk.css.map": "/character-builder/static/css/2.6a906a3b.chunk.css.map",
-    "static/css/main.95d9d1f3.chunk.css.map": "/character-builder/static/css/main.95d9d1f3.chunk.css.map"
+    "static/css/main.bcf35a09.chunk.css.map": "/character-builder/static/css/main.bcf35a09.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.f023d23d.js",
     "static/css/2.6a906a3b.chunk.css",
     "static/js/2.ba31856b.chunk.js",
-    "static/css/main.95d9d1f3.chunk.css",
+    "static/css/main.bcf35a09.chunk.css",
     "static/js/main.c259ae6f.chunk.js"
   ]
 }
