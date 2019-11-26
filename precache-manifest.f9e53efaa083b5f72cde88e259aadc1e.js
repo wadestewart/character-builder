@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2523d531d067d4330f93ca86b5da060",
+    "revision": "c3337358bb584bedc9a5f8eb16816d8b",
     "url": "/character-builder/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/character-builder/static/css/2.6a906a3b.chunk.css"
   },
   {
-    "revision": "88979c8964f85e01b9c7",
-    "url": "/character-builder/static/css/main.bcf35a09.chunk.css"
+    "revision": "79074e6d1fabb2707e4f",
+    "url": "/character-builder/static/css/main.7840de9b.chunk.css"
   },
   {
     "revision": "d61ff39e8cda77b5bbbe",
     "url": "/character-builder/static/js/2.ba31856b.chunk.js"
   },
   {
-    "revision": "88979c8964f85e01b9c7",
+    "revision": "79074e6d1fabb2707e4f",
     "url": "/character-builder/static/js/main.c259ae6f.chunk.js"
   },
   {
