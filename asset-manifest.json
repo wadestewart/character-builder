@@ -1,24 +1,28 @@
 {
   "files": {
-    "main.css": "/character-builder/static/css/main.7840de9b.chunk.css",
-    "main.js": "/character-builder/static/js/main.c259ae6f.chunk.js",
-    "main.js.map": "/character-builder/static/js/main.c259ae6f.chunk.js.map",
+    "main.css": "/character-builder/static/css/main.5167653d.chunk.css",
+    "main.js": "/character-builder/static/js/main.ca698dd7.chunk.js",
+    "main.js.map": "/character-builder/static/js/main.ca698dd7.chunk.js.map",
     "runtime-main.js": "/character-builder/static/js/runtime-main.f023d23d.js",
     "runtime-main.js.map": "/character-builder/static/js/runtime-main.f023d23d.js.map",
     "static/css/2.6a906a3b.chunk.css": "/character-builder/static/css/2.6a906a3b.chunk.css",
-    "static/js/2.ba31856b.chunk.js": "/character-builder/static/js/2.ba31856b.chunk.js",
-    "static/js/2.ba31856b.chunk.js.map": "/character-builder/static/js/2.ba31856b.chunk.js.map",
+    "static/js/2.7304f621.chunk.js": "/character-builder/static/js/2.7304f621.chunk.js",
+    "static/js/2.7304f621.chunk.js.map": "/character-builder/static/js/2.7304f621.chunk.js.map",
     "index.html": "/character-builder/index.html",
-    "precache-manifest.f9e53efaa083b5f72cde88e259aadc1e.js": "/character-builder/precache-manifest.f9e53efaa083b5f72cde88e259aadc1e.js",
+    "precache-manifest.bb101770d48a5f8bd94fac43365ed22c.js": "/character-builder/precache-manifest.bb101770d48a5f8bd94fac43365ed22c.js",
     "service-worker.js": "/character-builder/service-worker.js",
     "static/css/2.6a906a3b.chunk.css.map": "/character-builder/static/css/2.6a906a3b.chunk.css.map",
-    "static/css/main.7840de9b.chunk.css.map": "/character-builder/static/css/main.7840de9b.chunk.css.map"
+    "static/css/main.5167653d.chunk.css.map": "/character-builder/static/css/main.5167653d.chunk.css.map",
+    "static/media/clothes_embroideredTop-01.png": "/character-builder/static/media/clothes_embroideredTop-01.99db82a7.png",
+    "static/media/clothes_suit-01.png": "/character-builder/static/media/clothes_suit-01.d3c3c0af.png",
+    "static/media/hair_hairWrap-01.png": "/character-builder/static/media/hair_hairWrap-01.23f43c5f.png",
+    "static/media/hair_spanish-01-01.png": "/character-builder/static/media/hair_spanish-01-01.404e9855.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f023d23d.js",
     "static/css/2.6a906a3b.chunk.css",
-    "static/js/2.ba31856b.chunk.js",
-    "static/css/main.7840de9b.chunk.css",
-    "static/js/main.c259ae6f.chunk.js"
+    "static/js/2.7304f621.chunk.js",
+    "static/css/main.5167653d.chunk.css",
+    "static/js/main.ca698dd7.chunk.js"
   ]
 }
