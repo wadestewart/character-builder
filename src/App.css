@@ -12,6 +12,22 @@
     width: 296px;
 }
 
+#layers {
+    height: 397px;
+    left: 0px;
+    position: relative;
+    top: 0px;
+    width: 296px;
+}
+
+#layer {
+    height: 397px;
+    left: 0;
+    padding: 0;
+    position: absolute;
+    width: 296px; 
+}
+
 .button {
     margin: 15px 0;
 }

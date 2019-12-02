@@ -1,16 +1,15 @@
-import React, { Component } from 'react';
-import layers from './layers';
+import React from 'react';
+// import layers from './layers';
 
-export default class Randomizer extends Component {
-    renderRandomLayers(){
-        console.log(layers)
-    }
-
-    render() {
+const Randomizer = props => {
+        const { handleHairLayer, handleClothesLayer, handleFaceLayer } = props;
         return (
-            <div>
-                {this.renderRandomLayers()}
+            <div id="layers" className="row">
+                {handleHairLayer()}
+                {handleClothesLayer()}
+                {handleFaceLayer()}
             </div>
         );
-    }
 }
+
+export default Randomizer;
